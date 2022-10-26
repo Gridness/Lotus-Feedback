@@ -1,2 +1,2 @@
 # Lotus Finances
-An app for tracking family budget
+Каждая из версий курсовой находится в своей бренче с соовтествующим названием. Ветка по-умолчанию - kotlin, ветка с java версией - java
